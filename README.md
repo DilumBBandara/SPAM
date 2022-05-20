@@ -1,5 +1,7 @@
 # Installation Termux
  <html>
-1.<code>apt update && apt upgrade -y</code><br>
-2.<code>apt install git -y </code>
+<code>apt update && apt upgrade -y</code><br>
+<code>apt install git -y <br>
+apt install python -y<br>
+
 </html>
