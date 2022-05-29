@@ -1,6 +1,5 @@
 #Author:D.M.D.U.Bandara
 #ToolName: SPAM
-#Language:Python
 #Version:1.1
 #GitHub:https://github.com/DilumBBandara
 
