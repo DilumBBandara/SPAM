@@ -1,7 +1,7 @@
 ## SPAM
 
 <p align="center">
-<a href="https://github.com/DilumBBandara/SPAM"><img title="ToolName" src="https://img.shields.io/badge/SPAM-blue?style=for-the-badge&logo="></a>
+<a href="https://github.com/DilumBBandara/SPAM"><img title="ToolName" src="https://img.shields.io/badge/SPAM-yello?style=for-the-badge&logo="></a>
 </p>
 <p align="center">
 <a href="https://github.com/DilumBBandara/SPAM"><img title="Version" src="https://img.shields.io/badge/Version-1.1-red?style=for-the-badge&logo="></a>
