@@ -31,12 +31,12 @@
 
 ## INSTALLATION TERMUX :
 
-   `apt update && apt upgrade -y`
-   `apt install git python -y`
-   `git clone https://github.com/DilumBBandara/SPAM.git`
-   `cd SPAM`
-   `bash bashup.sh`
-   `python spam.py`
+  * `apt update && apt upgrade -y`
+  * `apt install git python -y`
+  * `git clone https://github.com/DilumBBandara/SPAM.git`
+  * `cd SPAM`
+  * `bash bashup.sh`
+  * `python spam.py`
 
 ## SCREEN SHOTS :
 
